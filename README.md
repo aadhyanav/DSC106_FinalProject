@@ -16,3 +16,6 @@ ChatGPT :
 - Topic: Social Network Analysis
 - Topic: Urban Segregation
 - Topic: Behavioral Economics
+
+International Tourism: https://data.worldbank.org/indicator/ST.INT.ARVL
+https://www.datapandas.org/ranking/most-visited-countries (map + bar graph)

@@ -19,3 +19,5 @@ ChatGPT :
 
 International Tourism: https://data.worldbank.org/indicator/ST.INT.ARVL
 https://www.datapandas.org/ranking/most-visited-countries (map + bar graph)
+
+U.S demographics: https://public.opendatasoft.com/explore/dataset/us-cities-demographics/export/?flg=en-us
